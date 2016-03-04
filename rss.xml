@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[panini-levanger]]></title>
+        <description><![CDATA[panini-levanger]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 04 Mar 2016 21:00:08 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Panini Design Levanger AS ]]></title>
+            <description><![CDATA[<article><h1>Panini Design Levanger AS </h1><h2>Postboks 177, 7620 Skogn - NORWAY</h2><p>Org. 988791482</p></article>]]></description>
+            <link>undefinedpanini-design-levanger-as/index.html</link>
+            <guid isPermaLink="false">41d2002f-d067-4288-8e63-ae84636a7ec7</guid>
+            <pubDate>Fri, 04 Mar 2016 20:59:40 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
