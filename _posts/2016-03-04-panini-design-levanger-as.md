@@ -1,15 +1,14 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: null
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-04T21:33:43.836Z'
-dateModified: '2016-03-04T21:33:05.253Z'
-title: 'Postboks 177, 7620 Skogn - NORWAY '
+datePublished: '2016-03-04T21:41:09.840Z'
+dateModified: '2016-03-04T21:39:11.723Z'
+title: 'Postboks 177, 7620 Skogn - NORWAY'
 author: []
 sourcePath: _posts/2016-03-04-panini-design-levanger-as.md
 published: true
@@ -19,7 +18,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+url: postboks-177-7620-skogn-norway/index.html
+_type: Article
 
 ---
 # Postboks 177, 7620 Skogn - NORWAY
