@@ -5,10 +5,10 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-04T21:41:09.840Z'
-dateModified: '2016-03-04T21:39:11.723Z'
-title: 'Postboks 177, 7620 Skogn - NORWAY'
+description: Org. 988791482
+datePublished: '2016-03-04T21:43:30.321Z'
+dateModified: '2016-03-04T21:42:39.922Z'
+title: 'Postboks 177, 7620 Skogn NORWAY'
 author: []
 sourcePath: _posts/2016-03-04-panini-design-levanger-as.md
 published: true
@@ -22,7 +22,7 @@ url: postboks-177-7620-skogn-norway/index.html
 _type: Article
 
 ---
-# Postboks 177, 7620 Skogn - NORWAY
+# Postboks 177, 7620 Skogn NORWAY
 
 [info@paninidesign.com][0]
 
