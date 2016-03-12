@@ -1,25 +1,25 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-12T20:59:54.289Z'
-dateModified: '2016-03-12T20:59:24.617Z'
+datePublished: '2016-03-12T21:06:51.846Z'
+dateModified: '2016-03-12T21:05:41.628Z'
 title: Panini Design Levanger AS
 author: []
+sourcePath: _posts/2016-03-12-panini-design-levanger-as.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-12-panini-design-levanger-as.md
-published: true
-url: panini-design-levanger-as/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Panini Design Levanger AS
